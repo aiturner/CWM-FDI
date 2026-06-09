@@ -1,0 +1,30 @@
+CPU frequency: 4.020 GHz
+Minimum consecutive TSC diff: 40 cycles
+Approximate time: 9.95 ns
+CPU frequency: 4.089 GHz
+Minimum consecutive TSC diff: 40 cycles
+Approximate time: 9.78 ns
+CPU frequency: 4.099 GHz
+Minimum consecutive TSC diff: 38 cycles
+Approximate time: 9.27 ns
+CPU frequency: 4.052 GHz
+Minimum consecutive TSC diff: 38 cycles
+Approximate time: 9.38 ns
+CPU frequency: 4.026 GHz
+Minimum consecutive TSC diff: 38 cycles
+Approximate time: 9.44 ns
+CPU frequency: 4.179 GHz
+Minimum consecutive TSC diff: 38 cycles
+Approximate time: 9.09 ns
+CPU frequency: 0.800 GHz
+Minimum consecutive TSC diff: 38 cycles
+Approximate time: 47.50 ns
+CPU frequency: 4.194 GHz
+Minimum consecutive TSC diff: 38 cycles
+Approximate time: 9.06 ns
+CPU frequency: 0.800 GHz
+Minimum consecutive TSC diff: 40 cycles
+Approximate time: 50.00 ns
+CPU frequency: 4.170 GHz
+Minimum consecutive TSC diff: 38 cycles
+Approximate time: 9.11 ns
